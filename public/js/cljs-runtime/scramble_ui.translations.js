@@ -1,9 +1,9 @@
 goog.provide('scramble_ui.translations');
 scramble_ui.translations.default_lang = new cljs.core.Keyword(null,"en","en",88457073);
-scramble_ui.translations.i18n = new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"en","en",88457073),new cljs.core.PersistentArrayMap(null, 6, ["main-page-title","Scramble","main-page-form-button","Scramble?","main-page-form-str-1","Text 1 ","main-page-form-str-2","Text 2 ","scrambled","They are scrambled!","not-scrambled","They are NOT scrambled!"], null)], null);
+scramble_ui.translations.i18n = new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"en","en",88457073),new cljs.core.PersistentArrayMap(null, 7, ["main-page-title","Scramble","main-page-form-button","Scramble?","main-page-form-str-1","Text 1 ","main-page-form-str-2","Text 2 ","scrambled","They are scrambled!","not-scrambled","They are NOT scrambled!","fatal","Something wrong happened, please retry later"], null)], null);
 scramble_ui.translations.t = (function scramble_ui$translations$t(var_args){
-var G__13918 = arguments.length;
-switch (G__13918) {
+var G__12068 = arguments.length;
+switch (G__12068) {
 case 2:
 return scramble_ui.translations.t.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 

@@ -10,6 +10,7 @@
         "main-page-form-str-2" "Text 2 ",
         "scrambled" "They are scrambled!",
         "not-scrambled" "They are NOT scrambled!"
+        "fatal" "Something wrong happened, please retry later"
         }})
 
 (defn t
