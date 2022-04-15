@@ -1,7 +1,7 @@
-#Scramble-ui
+# Scramble-ui
 Front-end clojurescript app for scramble api
 
-##Structure
+## Structure
 * store folder has reactive values across the app
 * components folder
 * plugins folder contains helpers/utils to add features into different places
